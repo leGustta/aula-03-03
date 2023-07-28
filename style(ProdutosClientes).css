@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body{
+    background-color: rgb(202, 201, 201);
+
+}
+
+A{
+    font:bolder 2em Work Sans, sans-serif;
+    font-size: 25px;
+    
+}
